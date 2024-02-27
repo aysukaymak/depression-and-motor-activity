@@ -58,7 +58,7 @@
 *.class
 *.dll
 *.gif
-*.html
+#*.html
 *.jar
 *.jpg
 *.so
