@@ -1,0 +1,1 @@
+libname casuser "/shared/home/aysu.kaymak@gazi.edu.tr/casuser";
